@@ -1,5 +1,7 @@
 # _Database Design_ course summary
 
+there are topics that are not covered here like Joins, they are explained in the _Learnig SQL_ repo
+
 # Topic 01: _INTRODUCTION_
 
 this topic is just an introduction to the Database DEsign course, it breaks ice and sets some vocabulary
